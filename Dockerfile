@@ -1,6 +1,6 @@
 FROM composer:latest
 
-MAINTAINER Matthias Heindl <m.heindl@fupa.net>
+MAINTAINER Matthias Heindl <heindlmatthias@gmail.com>
 
 RUN docker-php-ext-install pcntl
 
